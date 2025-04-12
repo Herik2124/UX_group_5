@@ -23,14 +23,19 @@ Welcome to my repository for all UX design projects and academic submissions. Th
 
 ## 🔗 Live Prototypes
 
-- [College Fest App – Figma Prototype](https://www.figma.com/file/your-link-here)
+- [College Fest App – Figma Prototype]([https://www.figma.com/file/your-link-here](https://www.figma.com/design/aQxOum4UunPF4hHiVtwGCL/High-Fidelity-original?m=auto&t=8i4wDQzf0WRi4YS8-1))
 
 ---
 
 ## 🙋‍♂️ Author
 
-**Your Name**  
-[LinkedIn](https://www.linkedin.com/in/your-link/) | [Portfolio](https://yourportfolio.com) | [Email](mailto:your@email.com)
+**Herik Patel**  
+[Email](mailto:202201407@daiict.ac.in)
+**Siddhant Kotak**  
+[Email](mailto:202201410@daiict.ac.in)
+**Vardhman Mehta**  
+[Email](mailto:202201444@daiict.ac.in)
+
 
 ---
 
